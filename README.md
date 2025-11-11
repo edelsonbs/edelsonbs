@@ -6,11 +6,11 @@
 </div>
 <br><br>
   
-![Contribution](https://activity-graph.herokuapp.com/graph?username=edelsonbs&theme=gotham&hide_border=true&arrea=true)
-  
-<!--<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edelsonbs&theme=dracula&row=2&no-bg=false&column=3&margin-w=15&margin-h=15" />
-</p>  -->
+### GitHub Stats:
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edelsonbs&theme=radical" />
+</p>
 
 <br/>
 
